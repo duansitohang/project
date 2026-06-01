@@ -1,0 +1,6 @@
+{
+  "name": "Smart Home IoT Relay Dashboard",
+  "description": "Smart Home IoT control center with 4-relay switching, DHT11/22 sensor telemetry, Telegram Bot integration, and ESP32 status monitoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
